@@ -56,11 +56,11 @@ body {
 
 .row {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
-.col-sm-6 {
-  width: 50%;
+.col-5 {
+  width: 20%;
 }
 
 img {
